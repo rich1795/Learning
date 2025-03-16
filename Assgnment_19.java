@@ -10,7 +10,7 @@ public class Assgnment_19 {
 		
 		if(a<b && b>a) 
 		{
-			System.out.println("Both true");
+			System.out.println("Both are true ");
 		}
 		if(a<b && b==a) 
 		{
