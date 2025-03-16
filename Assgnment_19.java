@@ -24,7 +24,9 @@ public class Assgnment_19 {
 		{
 			System.out.println("both false");
 		}
-		
+		else {
+			System.out.println("Branch changes");
+		}
 
 	}
 
